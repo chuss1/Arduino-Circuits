@@ -2,7 +2,7 @@
 
 #include <LiquidCrystal.h>
 
-char array1[] = " Cr0nus LCD               ";
+char array1[] = " Caleb's LCD              ";
 char array2[] = " Hello, World!            ";
 int time = 750;
 
