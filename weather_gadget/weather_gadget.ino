@@ -5,7 +5,6 @@ void setup() {
   Serial.begin(115200);
   delay(10);
   Serial.println('\n');
-  Serial.println("ESP8266 booted!");
 
   WiFi.begin(ssid, password);
   Serial.print("Connecting to ");
